@@ -7,3 +7,5 @@ No unusually large event is assumed here (on the order of O(10e9) dollars of los
 'sensitivity_premium.py' measures the probability of ruin with respect to changes in the premium cost NFIP charges the policyholders
 
 'sensitivity_uncfrac_pf.py' measures the probability of ruin with respect to changes in the investment practices, conditioned on high uncertainty in number of premium paying policyholders.
+
+'final_surplus_dist.py' looks at the distribution of the final wealth in the time simulation
