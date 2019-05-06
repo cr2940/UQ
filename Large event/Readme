@@ -1,0 +1,7 @@
+'sensitivity_frac_re.py' measures the probability of ruin (if the time simulation of wealth will go under 0 at any point) with respect to changes in the uncertainty of the number of policyholders who faithfully pay premium to NFIP.
+
+'sensitivity_portfolio_re.py' measures the probability of ruin with respect to changes in the investment practice of NFIP
+
+'sensitivity_premium_re.py' measures the probability of ruin with respect to changes in the premium cost NFIP charges the policyholders
+
+'sensitivity_uncfrac_pf_re.py' measures the probability of ruin with respect to changes in the investment practices, conditioned on high uncertainty in number of premium paying policyholders.
