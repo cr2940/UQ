@@ -5,3 +5,7 @@
 'sensitivity_premium_re.py' measures the probability of ruin with respect to changes in the premium cost NFIP charges the policyholders
 
 'sensitivity_uncfrac_pf_re.py' measures the probability of ruin with respect to changes in the investment practices, conditioned on high uncertainty in number of premium paying policyholders.
+
+'VaR.py' computes the Value at Risk when there is no reinsurance in the face of large event and compares to the VaR when there is.
+
+'final_surplus_dist_re.py' looks at the distribution of the final wealth amount at the end of a time simulation.
